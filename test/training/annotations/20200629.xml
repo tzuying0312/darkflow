@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20200629.jpeg</filename>
+	<path>/Users/tzuying/Desktop/test_new/images/20200629.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1543</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pic</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>1226</ymin>
+			<xmax>802</xmax>
+			<ymax>1543</ymax>
+		</bndbox>
+	</object>
+</annotation>
